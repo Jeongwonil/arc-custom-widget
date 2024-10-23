@@ -6,8 +6,10 @@
   "exbVersion": "1.15.0",
   "author": "Esri R&D Center Beijing",
   "description": "This is a barebones, simple widget.",
-  "copyright": "",
-  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "dataSource": {
+    "useDataSource": "https://kgeodata.com/server/rest/services/Hosted/test_csv_createFeature/FeatureServer/0",
+    "dataSourceType": "FeatureLayer"
+  },
   "properties": {
     "hasSettingPage": false
   },
