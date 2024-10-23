@@ -7,7 +7,7 @@
   "author": "Esri R&D Center Beijing",
   "description": "This is a barebones, simple widget.",
   "dataSource": {
-    "useDataSource": "https://kgeodata.com/server/rest/services/Hosted/test_csv_createFeature/FeatureServer/0",
+    "useDataSource": "da3f695d4a764712b1173906a1124f4a",
     "dataSourceType": "FeatureLayer"
   },
   "properties": {
