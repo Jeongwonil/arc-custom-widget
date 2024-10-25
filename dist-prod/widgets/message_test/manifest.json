@@ -7,7 +7,7 @@
   "author": "Esri R&D Center Beijing",
   "description": "This is a barebones, simple widget.",
   "dataSource": {
-    "dataSource": "da3f695d4a764712b1173906a1124f4a",
+    "useDataSource": "dataSource_3-0",
     "dataSourceType": "FeatureLayer"
   },
   "properties": {
