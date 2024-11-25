@@ -1,1 +1,0 @@
-System.register([],(function(e){return{execute:function(){e({_widgetLabel:"Widget-controller",_action_openWidget_label:"\xc5bn widget",resizerTooltip:"Tilpas vinduesst\xf8rrelse ved at tr\xe6kke og slippe."})}}}));
