@@ -1,6 +1,6 @@
 {
   "name": "adress_test",
-  "label": "adress_test",
+  "label": "새주소검색",
   "type": "widget",
   "version": "1.15.0",
   "exbVersion": "1.15.0",
@@ -8,9 +8,8 @@
   "description": "This is a barebones, simple widget. It includes an example of how to use the config file, and it includes a placeholder SVG icon. It intentionally does not include the following so you can use this to start from scratch: i18n translations, a Settings panel, unit tests. See the documentation for more information on how to implement these features.",
   "copyright": "",
   "license": "http://www.apache.org/licenses/LICENSE-2.0",
-  "properties": {
-    "hasSettingPage": false
-  },
+  "dependency": "jimu-arcgis",
+  "properties": {},
   "translatedLocales": [
     "en"
   ],
