@@ -16,9 +16,10 @@
       "settingUri": "message-actions/open-widgets-action-setting"
     }
   ],
-  "excludeDataActions": [
-    "jimu-arcgis.*",
-    "arcgis-map.*"
+  "include": [
+    "dist/widgets",
+    "jimu-core/lib/types",
+    "jimu-for-builder/lib/utils"
   ],
   "defaultSize": {
     "height": 54,
